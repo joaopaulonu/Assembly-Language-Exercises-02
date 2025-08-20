@@ -1,2 +1,3 @@
 # Assembly-Language-Exercises-02
-This project contains a series of 3 practical Assembly language exercises developed at PUC-Campinas for the Computer Systems Organization course. It demonstrates fundamental concepts of low-level programming, including console I/O, loops, input validation, and basic arithmetic operations.
+
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/6a2dac50-d757-42eb-a07f-c6286e39ef53" />
